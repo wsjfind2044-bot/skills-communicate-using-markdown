@@ -1,7 +1,7 @@
 #Daily Learning
 
 ##Morning Learning
-
+![Mona the Octocat](https://octodex.github.com/images/original.png)
 ##Review
 
 -  [ ] Check out the [github blog] (https://github.blog/) for topic ideas.
@@ -11,3 +11,4 @@
        ```bash
        ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:staturation=1.1" output.mp4
        ```
+
